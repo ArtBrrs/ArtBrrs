@@ -1,19 +1,27 @@
-#   Olá, eu sou o Arthur Barreiros. <img width="40" height="40" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" /> 
+<div align="center">
+<div align="center">  
+    <h1>Olá, me chamo Arthur Barreiros!</h1>
+</div>
+
+<div align="center">  
+    <h2>Bem-vindo(a) ao meu perfil GitHub!!</h2>
+    <h3>Estudo Engenharia de Software e atualmente estou cursando o primeiro semestre. Por aqui, vou compartilhar todos os meus projetos, além de códigos feitos no meu processo de aprendizagem. Espero que meus repositórios possam de alguma forma te ajudar! 😁 </h3>
+</div>
 
 <br>
-<h2 align="center">  Sobre mim: </h2>
-<p> 
-  Tenho 21 anos, sou de Salvador, Bahia, e atualmente estou no primeiro semestre de Engenharia de Software. Meu primeiro contato com         programação foi através da linguagem de programação Java; foi nela que aprendi lógica e POO (Programação Orientada a Objetos). <br>Tenho como grande objetivo me tornar um Desenvolvedor Web Back-end.
-</p>
+<div align="center">  
+    <h2>Tecnologias que conheço: </h2>
+</div>
 <br>
-
-## Tecnologias que eu sei:
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <br>
 <br>
 
 
-## O que eu estou aprendendo: 
+<div align="center">  
+    <h2>Tecnologias que estou aprendendo: </h2>
+</div>
+<br>
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
           
           
