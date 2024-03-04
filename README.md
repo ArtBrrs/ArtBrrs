@@ -20,7 +20,7 @@
 
 ## 📝 **About:**
 
-Sou Arthur Barreiros, estagiário de Inovação na Fundação José Silveira e atualmente estudante no 2º semestre de Engenharia de Software na Universidade Católica do Salvador com cursos relacionados a área como: Java Developer, Frontend, Node, React, TailWind, SQL, Git.
+Sou Arthur Barreiros, estagiário de Inovação na Fundação José Silveira e estudante do 2º semestre de Engenharia de Software na Universidade Católica do Salvador com cursos relacionados a área como: Java Developer, Frontend, Node, React, TailWind, SQL, Git.
 
 Em meus estudos busco desenvolver meus hard e soft skills, ampliando meus conhecimentos, conquistando novas habilidades e competências para me tornar cada vez mais completo, como profissional e como pessoa.
 
