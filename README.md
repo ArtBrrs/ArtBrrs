@@ -1,7 +1,7 @@
 # Bem-vindo ao meu perfil!
 
 <!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurbarreiros&color=blue" alt="Profile views" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArtBrrs&color=blue" alt="Profile views" /></p>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 - ⌨️ Estudante de Engenharia de Software
-- 🔭 Atualmente estagiário do programa Acelera na Fundação José Silveira
+- 🔭 Atualmente estagiário na Fundação José Silveira
 - ☕ Back-end Developer
 - 🚀 Jamais desistir
 
@@ -54,11 +54,11 @@ Nos meus estudos pude desenvolver conhecimentos técnicos como:
 <!-- https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api? -->
 
 <div align="center">
-  <a href="https://github.com/arthurbarreiros">
+  <a href="https://github.com/ArtBrrs">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPMrks&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPMrks&layout=compact&langs_count=7&theme=radical"/> -->
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arthurbarreiros&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arthurbarreiros&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ArtBrrs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArtBrrs&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 
