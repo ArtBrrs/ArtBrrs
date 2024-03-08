@@ -38,6 +38,7 @@ Nos meus estudos pude desenvolver conhecimentos técnicos como:
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&logoColor=01FCEF&color=05122A)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL&logoColor=336791&color=05122A)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=green&color=05122A)&nbsp;
+![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=blue&color=05122A)&nbsp;
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&logoColor=orange&color=05122A)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=33a9dc&color=05122A)&nbsp;
